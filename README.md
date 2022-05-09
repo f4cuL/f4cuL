@@ -14,7 +14,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/facundo-elias-lopez-9899261a1/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn"></a>
   
-  <div style="text-align:center;">
+  <div align="center">
     siso
    </div>
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
