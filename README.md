@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/facundo-elias-lopez-9899261a1/">Tan</a></b>.
-    <br>I'm a Software developer at <a href=">Softtek.</a><br>
+    <br>I'm a Software developer at <a href="https://www.softtek.com/">Softtek.</a><br>
 
 </samp>
 
