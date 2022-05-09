@@ -18,11 +18,6 @@
 
 <div align="center">
 
-  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
-
-
 
 <a href="">![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)</a>
 <a href="">![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)</a>
@@ -31,7 +26,7 @@
 <a href="">![Hibernate](https://img.shields.io/badge/-Hibernate-002396?style=flat-square&logo=hibernate&logoColor=fffff)</a>
 <a href="">![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</a>
 <a href="">![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</a>
-<a href="">![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<a href="">![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+<a href="">![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)</a>
+<a href="">![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</a>
   
   </div>
