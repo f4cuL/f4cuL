@@ -10,7 +10,6 @@
 
 </p>
 
-	@@ -19,28 +19,10 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
