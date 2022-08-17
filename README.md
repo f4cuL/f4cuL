@@ -13,6 +13,7 @@
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazapus&theme=tokyonight)
 
 <a href="#">![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)</a>
 <a href="#">![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)</a>
